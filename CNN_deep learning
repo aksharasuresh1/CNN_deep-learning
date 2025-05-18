@@ -1,4 +1,4 @@
-# Plant Disease Classification Using CNN (Updated Version)
+# Plant Disease Classification Using CNN 
 
 import os
 import tensorflow as tf
